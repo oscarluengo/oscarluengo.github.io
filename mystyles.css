@@ -1,0 +1,52 @@
+body {
+ 	background-color: darkblue;
+
+}
+
+h1 {
+    	color: white;
+	text-align: center;
+
+}
+
+
+h2 {
+	color:yellow;
+	text-align: left;
+
+}
+
+
+h3{
+			
+	color: lightgreen;
+	text-align: right;
+
+}
+
+h4{ 
+
+	color:lightpink;
+	text-align: right;
+
+}
+
+p{
+	font-family: verdana;
+	font-size: 20px:
+
+}
+
+a{
+
+	font-family:verdana;
+	font-size: 20px;
+	color: red;
+
+}
+
+
+
+	
+
+
